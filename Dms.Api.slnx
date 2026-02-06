@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="Dms.Api/Dms.Api.csproj" />
+  <Project Path="Dms.Application/Dms.Application.csproj" Id="18cb518d-9b9e-4e87-81a0-333574df1b45" />
+  <Project Path="Dms.Domain/Dms.Domain.csproj" Id="2a43cbd5-cd48-4e62-946e-14a853fed3a5" />
+  <Project Path="Dms.Infrastructure/Dms.Infrastructure.csproj" Id="140e9eb1-fd5f-4e82-a5dd-028cc3f393be" />
 </Solution>
